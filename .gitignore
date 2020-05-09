@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+
+tokenpythonanywhere: baa15492b5aa4b57cc8cf3e47590085927f954a6
